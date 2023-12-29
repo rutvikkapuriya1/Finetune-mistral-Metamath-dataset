@@ -1,4 +1,4 @@
-# Mistral 7B Fine-Tuning Project
+# Mistral 7B Fine-Tuning 
 
 ## Overview
 
